@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/travis-ci-test/static/css/main.a617e044.chunk.css",
+    "main.js": "/travis-ci-test/static/js/main.06e4773f.chunk.js",
+    "main.js.map": "/travis-ci-test/static/js/main.06e4773f.chunk.js.map",
+    "runtime-main.js": "/travis-ci-test/static/js/runtime-main.5f61efdd.js",
+    "runtime-main.js.map": "/travis-ci-test/static/js/runtime-main.5f61efdd.js.map",
+    "static/js/2.d8bec40e.chunk.js": "/travis-ci-test/static/js/2.d8bec40e.chunk.js",
+    "static/js/2.d8bec40e.chunk.js.map": "/travis-ci-test/static/js/2.d8bec40e.chunk.js.map",
+    "static/js/3.d172602c.chunk.js": "/travis-ci-test/static/js/3.d172602c.chunk.js",
+    "static/js/3.d172602c.chunk.js.map": "/travis-ci-test/static/js/3.d172602c.chunk.js.map",
+    "index.html": "/travis-ci-test/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/travis-ci-test/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.d8bec40e.chunk.js.LICENSE.txt": "/travis-ci-test/static/js/2.d8bec40e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/travis-ci-test/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f61efdd.js",
+    "static/js/2.d8bec40e.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.06e4773f.chunk.js"
+  ]
+}
